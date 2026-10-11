@@ -1,0 +1,13 @@
+CATÁLOGO WEB CORREGIDO
+
+Incluye index.html, products.json, images/ (150 fotografías) y qrs/ (150 códigos QR) recuperados del Excel.
+
+Para publicarlo:
+1. Abre https://github.com/osvaldoalf/catalogo-inventario
+2. Entra al repositorio y sube/reemplaza index.html y products.json.
+3. Sube también las carpetas completas images y qrs.
+4. Conserva exactamente los nombres de archivos y carpetas.
+5. Espera unos minutos y prueba esta ficha:
+   https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-001
+
+Los IDs de los productos se conservaron. Las fichas individuales ocultan el catálogo y muestran solo el producto seleccionado.
